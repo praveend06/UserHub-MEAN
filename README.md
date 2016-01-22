@@ -3,7 +3,7 @@ User management system in MEAN stack
 
 Types of users : Admin, User, Guest   
 User      
-  Login, Regisetr, facebook login    
+  Login, Register, facebook login    
   Update profile    
   Add/Update profile picture    
   Chat - user to user chat        
